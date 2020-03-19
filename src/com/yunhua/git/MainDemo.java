@@ -9,6 +9,7 @@ public class MainDemo {
         user1.setName("yunhua");
         user1.setAge("25");
         System.out.println(user1);
+        System.out.println("======================");
 
 
     }

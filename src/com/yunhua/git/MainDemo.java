@@ -11,6 +11,13 @@ public class MainDemo {
         System.out.println(user1);
         System.out.println("======================");
         System.out.println("测试代码同步功能");
-
+        System.out.println("测试分支功能");
+        testBranches();
+    }
+    public static void testBranches(){
+        int i=0;
+        for (i = 0; i <10 ; i++) {
+            System.out.println(i);
+        }
     }
 }

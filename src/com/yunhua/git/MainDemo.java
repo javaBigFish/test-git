@@ -11,6 +11,9 @@ public class MainDemo {
         System.out.println(user1);
         System.out.println("======================");
         System.out.println("测试代码同步功能");
+        for (int i = 0; i <10 ; i++) {
+            System.out.println(i+"测试忽略文件的问题");
+        }
 
     }
 }

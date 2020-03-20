@@ -10,7 +10,7 @@ public class MainDemo {
         user1.setAge("25");
         System.out.println(user1);
         System.out.println("======================");
-
+        System.out.println("测试代码同步功能");
 
     }
 }

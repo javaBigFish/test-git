@@ -19,5 +19,9 @@ public class MainDemo {
         for (i = 0; i <10 ; i++) {
             System.out.println(i);
         }
+        for (int i = 0; i <10 ; i++) {
+            System.out.println(i+"测试忽略文件的问题");
+        }
+
     }
 }

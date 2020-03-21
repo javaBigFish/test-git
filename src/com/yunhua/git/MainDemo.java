@@ -13,6 +13,8 @@ public class MainDemo {
         System.out.println("测试代码同步功能");
         System.out.println("测试分支功能");
         testBranches();
+
+        System.out.println("测试合并分支的功能，dev分支");
     }
     public static void testBranches(){
         int i=0;
